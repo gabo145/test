@@ -1,0 +1,15 @@
+/Users/gabriel/test/test/obj/Debug/net9.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabriel/test/test/obj/Debug/net9.0/test.AssemblyInfoInputs.cache
+/Users/gabriel/test/test/obj/Debug/net9.0/test.AssemblyInfo.cs
+/Users/gabriel/test/test/obj/Debug/net9.0/test.csproj.CoreCompileInputs.cache
+/Users/gabriel/test/test/obj/Debug/net9.0/test.sourcelink.json
+/Users/gabriel/test/test/bin/Debug/net9.0/test
+/Users/gabriel/test/test/bin/Debug/net9.0/test.deps.json
+/Users/gabriel/test/test/bin/Debug/net9.0/test.runtimeconfig.json
+/Users/gabriel/test/test/bin/Debug/net9.0/test.dll
+/Users/gabriel/test/test/bin/Debug/net9.0/test.pdb
+/Users/gabriel/test/test/obj/Debug/net9.0/test.dll
+/Users/gabriel/test/test/obj/Debug/net9.0/refint/test.dll
+/Users/gabriel/test/test/obj/Debug/net9.0/test.pdb
+/Users/gabriel/test/test/obj/Debug/net9.0/test.genruntimeconfig.cache
+/Users/gabriel/test/test/obj/Debug/net9.0/ref/test.dll
