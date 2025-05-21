@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/gabriel/.nuget/packages/": {}
+    "C:\\Users\\gabot\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gabriel/test/test/test.csproj",
+      "projectUniqueName": "C:\\Users\\gabot\\OneDrive\\Escritorio\\visual code\\test-1\\test.csproj",
       "projectName": "test",
-      "projectPath": "/Users/gabriel/test/test/test.csproj",
-      "packagesPath": "/Users/gabriel/.nuget/packages/",
-      "outputPath": "/Users/gabriel/test/test/obj/",
+      "projectPath": "C:\\Users\\gabot\\OneDrive\\Escritorio\\visual code\\test-1\\test.csproj",
+      "packagesPath": "C:\\Users\\gabot\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gabot\\OneDrive\\Escritorio\\visual code\\test-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/gabriel/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\gabot\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
